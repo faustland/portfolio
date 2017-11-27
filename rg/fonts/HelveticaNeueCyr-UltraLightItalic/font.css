@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HelveticaNeueCyr-UltraLightItalic';
+  src: url('HelveticaNeueCyr-UltraLightItalic.eot');
+  src: url('HelveticaNeueCyr-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+       url('HelveticaNeueCyr-UltraLightItalic.woff2') format('woff2'),
+       url('HelveticaNeueCyr-UltraLightItalic.woff') format('woff'),
+       url('HelveticaNeueCyr-UltraLightItalic.ttf') format('truetype'),
+       url('HelveticaNeueCyr-UltraLightItalic.svg#HelveticaNeueCyr-UltraLightItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

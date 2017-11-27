@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HelveticaNeueCyr-HeavyItalic';
+  src: url('HelveticaNeueCyr-HeavyItalic.eot');
+  src: url('HelveticaNeueCyr-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+       url('HelveticaNeueCyr-HeavyItalic.woff2') format('woff2'),
+       url('HelveticaNeueCyr-HeavyItalic.woff') format('woff'),
+       url('HelveticaNeueCyr-HeavyItalic.ttf') format('truetype'),
+       url('HelveticaNeueCyr-HeavyItalic.svg#HelveticaNeueCyr-HeavyItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

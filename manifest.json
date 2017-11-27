@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "api_version": 4,
+  "layout": {
+    "logo": "http://faustland.ru/img/logo_min.png",
+    "color": "#39f773",
+    "show_title": false
+  }
+}
+

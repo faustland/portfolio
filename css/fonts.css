@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "RobotoRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Regular.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Light.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans/OpenSans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Bold.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "rouble";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/rouble/rouble.eot?#iefix") format("embedded-opentype"), url("../fonts/rouble/rouble.woff") format("woff"), url("../fonts/rouble/rouble.ttf") format("truetype"); }
+@font-face {
+  font-family: "Roboto-Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/Roboto-Medium.woff") format("woff"), url("../fonts/RobotoRegular/Roboto-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: "PressStart2P-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PressStart2P-Regular/PressStart2P-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/PressStart2P-Regular/PressStart2P-Regular.woff") format("woff"), url("../fonts/PressStart2P-Regular/PressStart2P-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "Pacifico-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Pacifico-Regular/Pacifico-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Pacifico-Regular/Pacifico-Regular.woff") format("woff"), url("../fonts/Pacifico-Regular/Pacifico-Regular.ttf") format("truetype"); }
+
+/*# sourceMappingURL=fonts.css.map */
